@@ -29,10 +29,19 @@ Ensure you have the following installed before proceeding:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/bookstore.git
-cd bookstore
-cd backend
-npm install
-cd ../frontend
+2. **Navigate to the project directory**:
+      ```bash
+   cd bookstore
+3. **Install dependencies**:
+   **Backend dependencies**:
+     ```bash
+   cd backend
+   npm install
+   **Frontend dependencies**:
+     ```bash
+                     npm install
+                                                                                    cd ../frontend
+4. Set up Environment Variables: Create a .env file in the backend directory with the following details:
 npm install
 MONGODB_URI=<your-mongodb-connection-string>
 JWT_SECRET=<your-jwt-secret-key>
