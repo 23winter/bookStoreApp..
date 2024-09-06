@@ -11,9 +11,7 @@ function Banner() {
               <span className="text-gray-300">new everyday!!!</span>
             </h1>
             <p className="text-sm md:text-xl">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor,
-              et totam. Tempora amet atque expedita, quae corrupti totam sed
-              pariatur corporis at veniam est voluptas animi!
+            Explore a world of literature with [Your Bookstore App Name], where you can find the latest bestsellers, timeless classics, and everything in between. Whether you’re an avid reader, a book collector, or someone looking to explore new genres, our app has something for everyone.
             </p>
             <label className="input input-bordered flex items-center gap-2">
               <svg
