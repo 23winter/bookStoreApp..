@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "story Book",
+    "title": "stories may be true or you wish they were not true",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719457357~exp=1719460957~hmac=27aa0924f2256415852b82ac7a5de3421f5e8d123618a90a0a7c3c659dfe08de&w=740"
+  },
+  {
+    "id": 1,
+    "name": "poem",
+    "title": "The words that never enough ti define the pain us going through",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719457357~exp=1719460957~hmac=27aa0924f2256415852b82ac7a5de3421f5e8d123618a90a0a7c3c659dfe08de&w=740"
+  },
+  {
+    "id": 1,
+    "name": "Comics",
+    "title": "feel the Hero within you",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719457357~exp=1719460957~hmac=27aa0924f2256415852b82ac7a5de3421f5e8d123618a90a0a7c3c659dfe08de&w=740"
+  },
+  {
+    "id": 1,
+    "name": "self-help book",
+    "title": "The book that will shape your past,future and present",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719457357~exp=1719460957~hmac=27aa0924f2256415852b82ac7a5de3421f5e8d123618a90a0a7c3c659dfe08de&w=740"
+  },
+  {
+    "id": 1,
+    "name": "Frictional novel",
+    "title": "Be the part of the story you always seen.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719457357~exp=1719460957~hmac=27aa0924f2256415852b82ac7a5de3421f5e8d123618a90a0a7c3c659dfe08de&w=740"
+  }
+]
