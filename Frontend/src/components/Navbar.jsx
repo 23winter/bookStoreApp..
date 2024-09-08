@@ -47,8 +47,9 @@ function Navbar() {
         <Link to="/course">Course</Link>
       </li>
       <li>
-        <a>Contact</a>
+        <Link to="/contact-us">Contact Us</Link>
       </li>
+
       <li>
         <Link to="/AboutUs">About</Link>
       </li>
