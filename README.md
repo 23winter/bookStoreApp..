@@ -33,25 +33,29 @@ Ensure you have the following installed before proceeding:
       ```bash
    cd bookstore
 3. **Install dependencies**:
-   **Backend dependencies**:
      ```bash
+   //3.1 Backend dependencies:
    cd backend
    npm install
-   **Frontend dependencies**:
-     ```bash
-                     npm install
-                                                                                    cd ../frontend
+   //3.2 Frontend dependencies**:
+      npm install
+                                                                                    
 4. Set up Environment Variables: Create a .env file in the backend directory with the following details:
-npm install
-MONGODB_URI=<your-mongodb-connection-string>
-JWT_SECRET=<your-jwt-secret-key>
-PORT=5000
-cd backend
-npm start
-cd ../frontend
-npm start
+   In .env file
+   ```bash
+      MONGODB_URI=<your-mongodb-connection-string>
+      JWT_SECRET=<your-jwt-secret-key>
+      PORT=5000
+5. starting the backend and frontend
+    ```bash
+       //In backend
+      cd backend
+      npm start
+    //In Frontend
+      cd ../frontend
+      npm start
 
-### Improvements:
+6. Improvements:
 1. **Clearer Structure**: The content is organized with sections for easier navigation.
 2. **Professional Formatting**: Bullet points, inline links to technologies, and code snippets make it user-friendly and professional.
 3. **Optional Sections**: You can add screenshots and links (to your email or LinkedIn), making it feel more polished.
