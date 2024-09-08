@@ -26,6 +26,7 @@ try {
 } catch (error) {
   console.log("Error: ", error);
 }
+console.log("MONGOOSE_URI:", mongoose);
 
 // defining routes
 app.use("/book", bookRoute);
